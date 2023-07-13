@@ -2,8 +2,8 @@
 pragma solidity ^0.8;
 pragma experimental ABIEncoderV2;
 
-import {Account} from "./ISoloMargin.sol";
-
+//import {Account} from "./ISoloMargin.sol";
+import {Account} from "https://github.com/welcomefrank/defi-by-example/blob/main/contracts/interfaces/dydx/ISoloMargin.sol"
 /**
  * @title ICallee
  * @author dYdX
